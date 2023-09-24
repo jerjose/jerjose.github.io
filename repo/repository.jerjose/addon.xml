@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.jerjose" name="Jerjose Repo" version="1.0.0" provider-name="Jerjose">
+    <extension point="xbmc.addon.repository" name="Jerjose Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/jerjose/jerjose.github.io/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jerjose/jerjose.github.io/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jerjose/jerjose.github.io/master/repo/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Jerjose</summary>
+        <description>Jerjose Repository</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>

@@ -1,0 +1,6 @@
+[submodule "nexus/plugin.video.seren"]
+	path = nexus/plugin.video.seren
+	url = https://github.com/jerjose/seren_jerjose
+[submodule "nexus/context.seren"]
+	path = nexus/context.seren
+	url = https://github.com/SerenKodi/context.seren
